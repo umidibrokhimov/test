@@ -1,0 +1,6 @@
+git init - Gitni ishlatish uchun
+git status - Gitga qoshilgan filelarni korib olishimiz mumkin. Ixtiyoriy
+git add -A|| file nomi - filelarni githubga qoshish uchun
+git commit -m 'commentariya' - malumotlarga commentariya yozish uchun
+
+git push - gitga qoshish uchun
